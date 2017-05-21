@@ -1,5 +1,4 @@
 # Personal Health Plan
-## by Claudio Vallejo
 
 I've attempted to stay organized when it comes to eating well and staying active. Food journals, exercise journals, book meal plans, training routines... I've tried many things over the years and while I've learned a lot about what eating healthy means and know the basics of bodybuilding, I've yet to find a way to feel in control of my health.
 
