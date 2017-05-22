@@ -1,5 +1,5 @@
 # Weekly Meal Plan
-### Weekly Meal Plan
+### Monday May 22 - Saturday May 28, 2017
 This document lists the weekly meal plan, which will serve as a guide to purchase the weekly groceries, cook and manage weekly meals, and eat as healthily as possible.
 
 ---
