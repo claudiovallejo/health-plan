@@ -14,17 +14,19 @@ This document lists daily gym routines.
  *I don't usually run in the mornings, but I had some issues with gym registration so I was kicked out of the gym this morning. Hopefully I can register today and start the gym routines tomorrow.*
 
 ## Tuesday May 22, 2017
-### Chest, Triceps and Abs
+### Chest
  | Exercise Name          | Set 1   | Set 2   | Set 3   | Set 4   |
  | :---                   | :---    | :---    | :---    | :---    |
- | **Chest**                                                      |
  | Dumbbell Chest Press   |         |         |         |         |
  | Incline Smith Press    |         |         |         |         |
  | Chest Dips             |         |         |         |         |
  | Dumbbell Incline Flyes |         |         |         |         |
  | Cable Flyes            |         |         |         |         |
  | Smith Press            |         |         |         |         |
- | **Triceps**                                                    |
+
+### Triceps
+ | Exercise Name          | Set 1   | Set 2   | Set 3   | Set 4   |
+ | :---                   | :---    | :---    | :---    | :---    |
  | French Press           |         |         |         |         |
  | Z-bar Lying Ext.       |         |         |         |         |
  | Rope Extensions        |         |         |         |         |
@@ -32,18 +34,19 @@ This document lists daily gym routines.
  | Bent-over Extensions   |         |         |         |         |
  | Tricep Dips            |         |         |         |         |
 
- | Ab Routine        | Reps |
- | :---              | :--- |
- | Cocoons           |      |
- | Full Crunch       |      |
- | Reverse Crunch    |      |
- | Heels to Heaven   |      |
- | Side Plank        |      |
- | Bike              |      |
- | Frogs             |      |
- | Weighted Crunches |      |
- | Hanging Raises    |      |
- | Side Crunches     |      |
+### Triceps
+ | Ab Routine             | Reps                                  |
+ | :---                   | :---                                  |
+ | Cocoons                |                                       |
+ | Full Crunch            |                                       |
+ | Reverse Crunch         |                                       |
+ | Heels to Heaven        |                                       |
+ | Side Plank             |                                       |
+ | Bike                   |                                       |
+ | Frogs                  |                                       |
+ | Weighted Crunches      |                                       |
+ | Hanging Raises         |                                       |
+ | Side Crunches          |                                       |
 
 ---
 
