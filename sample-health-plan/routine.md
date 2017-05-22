@@ -34,8 +34,8 @@ This document lists daily gym routines.
  | Bent-over Extensions   |         |         |         |         |
  | Tricep Dips            |         |         |         |         |
 
-### Triceps
- | Ab Routine             | Reps                                  |
+### Ab Routine
+ | Exercise Name          | Reps                                  |
  | :---                   | :---                                  |
  | Cocoons                |                                       |
  | Full Crunch            |                                       |
