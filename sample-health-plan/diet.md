@@ -5,209 +5,209 @@ This document lists the weekly meal plan, which will serve as a guide to purchas
 ---
 
 ### Monday May 22, 2017
-Pre-workout
-[✔︎] Almond Milk
-[✔︎] Oatmeal
-[✔︎] Greek Yogurt
-[✔︎] Raspberries
-[✔︎] Chia Seeds
-[✔︎] Cinnamon
+PRE-WORKOUT
+[x] Almond Milk
+[x] Oatmeal
+[x] Greek Yogurt
+[x] Raspberries
+[x] Chia Seeds
+[x] Cinnamon
 
-Post-workout
-[✔︎] Banana
-[✔︎] Eggs
-[✔︎] Turkey Ham
-[✔︎] Ezekiel Bread
+POST-WORKOUT
+[x] Banana
+[x] Eggs
+[x] Turkey Ham
+[x] Ezekiel Bread
 
-Snack
-[✔︎] Apple
-[✔︎] Almonds
-[✔︎] Cashews
+SNACK
+[x] Apple
+[x] Almonds
+[x] Cashews
 
-Lunch
-[✔︎] Grilled Salmon
-[✔︎] Quinoa
-[✔︎] Broccoli
-[✔︎] Spinach
-[✔︎] Blueberries
-[✔︎] Almond Oil
-[✔︎] Avocado
-[✔︎] Pecans
+LUNCH
+[x] Grilled Salmon
+[x] Quinoa
+[x] Broccoli
+[x] Spinach
+[x] Blueberries
+[x] Almond Oil
+[x] Avocado
+[x] Pecans
 
-Snack
-[✔︎] Carrots
-[✔︎] Celery
-[✔︎] Hummus
+SNACK
+[x] Carrots
+[x] Celery
+[x] Hummus
 
-Dinner
-[✔︎] Chicken Breast
-[✔︎] Broccoli
-[✔︎] Cottage Cheese
+DINNER
+[x] Chicken Breast
+[x] Broccoli
+[x] Cottage Cheese
 
 ---
 
 ### Tuesday May 23, 2017
 
-Pre-workout
-[✔︎] Greek Yogurt
-[✔︎] Ezekiel Bread
-[✔︎] Almond Butter
+PRE-WORKOUT
+[x] Greek Yogurt
+[x] Ezekiel Bread
+[x] Almond Butter
 
-Post-workout
-[✔︎] Banana
-[✔︎] Ezekiel Bread
-[✔︎] Tuna
-[✔︎] Avocado
-[✔︎] Chia Seeds
+POST-WORKOUT
+[x] Banana
+[x] Ezekiel Bread
+[x] Tuna
+[x] Avocado
+[x] Chia Seeds
 
-Snack
-[✔︎] Apple
-[✔︎] Almonds
-[✔︎] Cashews
+SNACK
+[x] Apple
+[x] Almonds
+[x] Cashews
 
-Lunch
-[✔︎] Chicken Breast
-[✔︎] Broccoli
-[✔︎] Brown Rice
+LUNCH
+[x] Chicken Breast
+[x] Broccoli
+[x] Brown Rice
 
-Snack
-[✔︎] Carrots
-[✔︎] Celery
-[✔︎] Hummus
+SNACK
+[x] Carrots
+[x] Celery
+[x] Hummus
 
-Dinner
-[✔︎] Chicken Breast
-[✔︎] Squash
-[✔︎] Cottage Cheese
+DINNER
+[x] Chicken Breast
+[x] Squash
+[x] Cottage Cheese
 
 ---
 
 ## Wednesday May 24, 2017
 
 PRE-WORKOUT
-[✔︎] Apple
-[✔︎] Ezekiel Bread
-[✔︎] Tuna
-[✔︎] Avocado
-[✔︎] Chia Seeds
+[x] Apple
+[x] Ezekiel Bread
+[x] Tuna
+[x] Avocado
+[x] Chia Seeds
 
 POST-WORKOUT
-[✔︎] Banana
-[✔︎] Eggs
-[✔︎] Turkey Ham
-[✔︎] Brown Rice
+[x] Banana
+[x] Eggs
+[x] Turkey Ham
+[x] Brown Rice
 
 SNACK
-[✔︎] Apple
-[✔︎] Blueberries
-[✔︎] Raspberries
-[✔︎] Almond Butter
+[x] Apple
+[x] Blueberries
+[x] Raspberries
+[x] Almond Butter
 
 LUNCH
-[✔︎] Tuna Steak
-[✔︎] Squash
-[✔︎] Quinoa
+[x] Tuna Steak
+[x] Squash
+[x] Quinoa
 
 SNACK
-[✔︎] Carrots
-[✔︎] Celery
-[✔︎] Hummus
+[x] Carrots
+[x] Celery
+[x] Hummus
 
 DINNER
-[✔︎] Steak
-[✔︎] Broccoli
-[✔︎] Spinach
-[✔︎] Almond Oil
-[✔︎] Raspberries
-[✔︎] Pecans
+[x] Steak
+[x] Broccoli
+[x] Spinach
+[x] Almond Oil
+[x] Raspberries
+[x] Pecans
 
 ---
 
 ### Thursday May 25, 2016
 
 PRE-WORKOUT
-[✔︎] Almond Milk
-[✔︎] Oatmeal
-[✔︎] Greek Yogurt
-[✔︎] Raspberries
-[✔︎] Chia Seeds
-[✔︎] Cinnamon
+[x] Almond Milk
+[x] Oatmeal
+[x] Greek Yogurt
+[x] Raspberries
+[x] Chia Seeds
+[x] Cinnamon
 
 POST-WORKOUT
-[✔︎] Banana
-[✔︎] Chicken Breast
-[✔︎] Brown Rice
-[✔︎] Broccoli
+[x] Banana
+[x] Chicken Breast
+[x] Brown Rice
+[x] Broccoli
 
 SNACK
-[✔︎] Apple
-[✔︎] Almond Butter
+[x] Apple
+[x] Almond Butter
 
 LUNCH
-[✔︎] Steak
-[✔︎] Brown Rice
-[✔︎] Bell Peppers
-[✔︎] Squash
-[✔︎] Spinach
-[✔︎] Almond Oil
-[✔︎] Raspberries
-[✔︎] Pecans
+[x] Steak
+[x] Brown Rice
+[x] Bell Peppers
+[x] Squash
+[x] Spinach
+[x] Almond Oil
+[x] Raspberries
+[x] Pecans
 
 SNACK
-[✔︎] Almonds
-[✔︎] Blueberries
-[✔︎] Pecans
+[x] Almonds
+[x] Blueberries
+[x] Pecans
 
 DINNER
-[✔︎] Steak
-[✔︎] Cottage Cheese
-[✔︎] Avocado
-[✔︎] Spinach
-[✔︎] Almond Oil
-[✔︎] Raspberries
-[✔︎] Almonds
+[x] Steak
+[x] Cottage Cheese
+[x] Avocado
+[x] Spinach
+[x] Almond Oil
+[x] Raspberries
+[x] Almonds
 
 ---
 
 ### Friday May 26, 2017
 
 PRE-WORKOUT
-[✔︎] Almond Milk
-[✔︎] Oatmeal
-[✔︎] Greek Yogurt
-[✔︎] Raspberries
-[✔︎] Chia Seeds
-[✔︎] Cinnamon
+[x] Almond Milk
+[x] Oatmeal
+[x] Greek Yogurt
+[x] Raspberries
+[x] Chia Seeds
+[x] Cinnamon
 
 POST-WORKOUT
-[✔︎] Banana
-[✔︎] Eggs
-[✔︎] Turkey Ham
-[✔︎] Ezekiel Bread
+[x] Banana
+[x] Eggs
+[x] Turkey Ham
+[x] Ezekiel Bread
 
 SNACK
-[✔︎] Apple
-[✔︎] Almonds
-[✔︎] Cashews
+[x] Apple
+[x] Almonds
+[x] Cashews
 
 LUNCH
-[✔︎] Chicken Breast
-[✔︎] Sweet Potato
-[✔︎] Spinach
-[✔︎] Blueberries
-[✔︎] Almond Oil
-[✔︎] Avocado
-[✔︎] Pecans
+[x] Chicken Breast
+[x] Sweet Potato
+[x] Spinach
+[x] Blueberries
+[x] Almond Oil
+[x] Avocado
+[x] Pecans
 
 SNACK
-[✔︎] Carrots
-[✔︎] Celery
-[✔︎] Hummus
+[x] Carrots
+[x] Celery
+[x] Hummus
 
 DINNER
-[✔︎] Chicken Breast
-[✔︎] Broccoli
-[✔︎] Cottage Cheese
+[x] Chicken Breast
+[x] Broccoli
+[x] Cottage Cheese
 OR
 - Go out
 
@@ -216,28 +216,28 @@ OR
 ### Saturday May 27, 2017
 
 BREAKFAST
-[✔︎] Apple
-[✔︎] Ezekiel Bread
-[✔︎] Tuna
-[✔︎] Avocado
-[✔︎] Chia Seeds
+[x] Apple
+[x] Ezekiel Bread
+[x] Tuna
+[x] Avocado
+[x] Chia Seeds
 
 SNACK
-[✔︎] Apple
+[x] Apple
 
 LUNCH
-[✔︎] Chicken Breast
-[✔︎] Sweet Potato
-[✔︎] Spinach
-[✔︎] Blueberries
-[✔︎] Almond Oil
-[✔︎] Avocado
-[✔︎] Pecans
+[x] Chicken Breast
+[x] Sweet Potato
+[x] Spinach
+[x] Blueberries
+[x] Almond Oil
+[x] Avocado
+[x] Pecans
 
 SNACK
-[✔︎] Banana
-[✔︎] Pecans
-[✔︎] Almonds
+[x] Banana
+[x] Pecans
+[x] Almonds
 
 DINNER
 - Go out
