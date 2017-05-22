@@ -32,17 +32,18 @@ This document lists daily gym routines.
  | Bent-over Extensions   |         |         |         |         |
  | Tricep Dips            |         |         |         |         |
 
-ABS
-1. Cocoons
-2. Full Crunch
-3. Reverse Crunch
-4. Heels to Heaven
-5. Side Plank
-6. Bike
-7. Frogs
-8. Weighted Crunches
-9. Hanging Raises
-10. Side Crunches
+ | Ab Routine        | Reps |
+ | :---              | :--- |
+ | Cocoons           |      |
+ | Full Crunch       |      |
+ | Reverse Crunch    |      |
+ | Heels to Heaven   |      |
+ | Side Plank        |      |
+ | Bike              |      |
+ | Frogs             |      |
+ | Weighted Crunches |      |
+ | Hanging Raises    |      |
+ | Side Crunches     |      |
 
 ---
 
