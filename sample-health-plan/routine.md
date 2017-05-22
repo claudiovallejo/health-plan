@@ -5,13 +5,26 @@ This document lists daily gym routines.
 ---
 
 ### Monday May 22, 2017
-LEGS
-1. Leg Press
-2. Smith Machine Squats
-3. Reverse Dumbbell Lunges
-4. Dumbbell Deadlifts
-5. Quad Extensions
-6. Hamstring Curls
+ | Start Time  | End Time   | Total Time Run | Total Distance Run |
+ | :---        | :---       | :---           | :---               |
+ | 06:15       | 07:15      | 1 hour         | 7 miles            |
+
+### Tuesday May 22, 2017
+CHEST
+1. Dumbbell Chest Press
+2. Incline Smith Press
+3. Dips
+4. Incline Flyes
+5. Cables Flyes
+6. Smith Press
+
+TRICEPS
+1. French Press
+2. Z-bar Lying Extensions
+3. Rope Extensions
+4. Dumbbell Inward Extensions
+5. Bent-over Extensions
+6. Dips
 
 ABS
 1. Cocoons
@@ -28,21 +41,14 @@ ABS
 ---
 
 ### Tuesday May 23, 2017
-CHEST
-1. Dumbbell Chest Press
-2. Incline Smith Press
-3. Dips
-4. Incline Flyes
-5. Cables Flyes
-6. Smith Press
 
-TRICEPS
-1. French Press
-2. Z-bar Lying Extensions
-3. Rope Extensions
-4. Dumbbell Inward Extensions
-5. Bent-over Extensions
-6. Dips
+LEGS
+1. Leg Press
+2. Smith Machine Squats
+3. Reverse Dumbbell Lunges
+4. Dumbbell Deadlifts
+5. Quad Extensions
+6. Hamstring Curls
 
 ---
 
