@@ -4,27 +4,33 @@ This document lists daily gym routines.
 
 ---
 
-### Monday May 22, 2017
+## Monday May 22, 2017
+### Cardio: Morning Run
  | Start Time  | End Time   | Total Time Run | Total Distance Run |
  | :---        | :---       | :---           | :---               |
  | 06:15       | 07:15      | 1 hour         | 7 miles            |
 
-### Tuesday May 22, 2017
-CHEST
-1. Dumbbell Chest Press
-2. Incline Smith Press
-3. Dips
-4. Incline Flyes
-5. Cables Flyes
-6. Smith Press
+ **Note:**
+ *I don't usually run in the mornings, but I had some issues with gym registration so I was kicked out of the gym this morning. Hopefully I can register today and start the gym routines tomorrow.*
 
-TRICEPS
-1. French Press
-2. Z-bar Lying Extensions
-3. Rope Extensions
-4. Dumbbell Inward Extensions
-5. Bent-over Extensions
-6. Dips
+## Tuesday May 22, 2017
+### Chest, Triceps and Abs
+ | Exercise Name          | Set 1   | Set 2   | Set 3   | Set 4   |
+ | :---                   | :---    | :---    | :---    | :---    |
+ | **Chest**                                                      |
+ | Dumbbell Chest Press   |         |         |         |         |
+ | Incline Smith Press    |         |         |         |         |
+ | Chest Dips             |         |         |         |         |
+ | Dumbbell Incline Flyes |         |         |         |         |
+ | Cable Flyes            |         |         |         |         |
+ | Smith Press            |         |         |         |         |
+ | **Triceps**                                                    |
+ | French Press           |         |         |         |         |
+ | Z-bar Lying Ext.       |         |         |         |         |
+ | Rope Extensions        |         |         |         |         |
+ | Dumbbell Inward Ext.   |         |         |         |         |
+ | Bent-over Extensions   |         |         |         |         |
+ | Tricep Dips            |         |         |         |         |
 
 ABS
 1. Cocoons
