@@ -5,18 +5,21 @@ This document lists daily gym routines.
 ---
 
 ## Monday May 22, 2017
+
+**Note:**
+*I don't usually run in the mornings, but I had some issues with gym registration so I was kicked out of the gym this morning. Hopefully I can register today and start the gym routines tomorrow.*
+
 ### Cardio: Morning Run
  | Start Time  | End Time   | Total Time Run | Total Distance Run |
  | :---        | :---       | :---           | :---               |
  | 06:15       | 07:15      | 1 hour         | 7 miles            |
 
- **Note:**
- *I don't usually run in the mornings, but I had some issues with gym registration so I was kicked out of the gym this morning. Hopefully I can register today and start the gym routines tomorrow.*
+---
 
 ## Tuesday May 22, 2017
 
 **Note:**
-*I'm in the process of having my name added to the gym's system, so for today I will not be doing my normal gym routine. I did a brief Google search and found there are a variety of 'outdoor gyms' in multiple public parks throughout the city. I will be going to Columbus Park, which is approximately 1.1 miles from my place and will be doing an outdoor workout with the available equipment.*
+*I'm still in the process of adding my name to the gym's system. I did a brief Google search and found there are a variety of 'outdoor gyms' in multiple public parks throughout the city. I will be going to Columbus Park, which is approximately 1.1 miles from my place and will be doing an outdoor workout with the available equipment.*
 
 ### Cardio: Wall St -> Columbus Park
 | Start Time  | End Time   | Total Time Run | Total Distance Run |
@@ -41,7 +44,9 @@ This document lists daily gym routines.
 | :---        | :---       | :---           | :---               |
 | —           | -          |                | 1.1 miles          |
 
-## Tuesday May 22, 2017
+---
+
+## Wednesday May 23, 2017
 ### Chest
  | Exercise Name          | Set 1   | Set 2   | Set 3   | Set 4   |
  | :---                   | :---    | :---    | :---    | :---    |
@@ -78,7 +83,7 @@ This document lists daily gym routines.
 
 ---
 
-### Tuesday May 23, 2017
+### Thursday May 24, 2017
 
 LEGS
 1. Leg Press
@@ -90,7 +95,7 @@ LEGS
 
 ---
 
-### Wednesday May 24, 2017
+### Friday May 25, 2017
 BACK
 1. Wide Pullups
 2. Dumbbell Rows
@@ -121,7 +126,7 @@ ABS
 
 ---
 
-### Thursday May 25, 2017
+### Saturday May 26, 2017
 SHOULDERS
 1. Rear Smith Press
 2. Seated Dumbbell Press
@@ -137,26 +142,3 @@ CALVES
 4. Plate Raise
 5. Inward Dumbbell Raise
 6. Outward 21s
-
----
-
-### Friday May 26, 2017
-LEGS
-1. Quad Extensions
-2. Hamstring Curls
-1. Reverse Dumbbell Lunges
-2. Leg Press Hack
-3. Smith Squats
-4. Smith Machine Deadlifts
-
-ABS
-1. Cocoons
-2. Full Crunch
-3. Reverse Crunch
-4. Heels to Heaven
-5. Side Plank
-6. Bike
-7. Frogs
-8. Weighted Crunches
-9. Hanging Raises
-10. Side Crunches
