@@ -14,6 +14,34 @@ This document lists daily gym routines.
  *I don't usually run in the mornings, but I had some issues with gym registration so I was kicked out of the gym this morning. Hopefully I can register today and start the gym routines tomorrow.*
 
 ## Tuesday May 22, 2017
+
+**Note:**
+*I'm in the process of having my name added to the gym's system, so for today I will not be doing my normal gym routine. I did a brief Google search and found there are a variety of 'outdoor gyms' in multiple public parks throughout the city. I will be going to Columbus Park, which is approximately 1.1 miles from my place and will be doing an outdoor workout with the available equipment.*
+
+### Cardio: Wall St -> Columbus Park
+| Start Time  | End Time   | Total Time Run | Total Distance Run |
+| :---        | :---       | :---           | :---               |
+| —           | -          |                | 1.1 miles          |
+
+### Chest, Back and Abs Circuit
+| Exercise Name          | Circuit 1   | Circuit 2   | Circuit 3   | Circuit 4   |
+| :---                   | :---        | :---        | :---        | :---        |
+| Wide Pullups           |             |             |             |             |
+| Chest Dips             |             |             |             |             |
+| Hanging Leg Raises     |             |             |             |             |
+| Reverse Grip Pullups   |             |             |             |             |
+| Pushups                |             |             |             |             |
+| Flutter Kicks          |             |             |             |             |
+| Chin ups               |             |             |             |             |
+| Decline Pushups        |             |             |             |             |
+| Planks                 |             |             |             |             |
+
+### Cardio: Columbus Park -> Wall St
+| Start Time  | End Time   | Total Time Run | Total Distance Run |
+| :---        | :---       | :---           | :---               |
+| —           | -          |                | 1.1 miles          |
+
+## Tuesday May 22, 2017
 ### Chest
  | Exercise Name          | Set 1   | Set 2   | Set 3   | Set 4   |
  | :---                   | :---    | :---    | :---    | :---    |
