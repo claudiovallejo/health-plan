@@ -14,46 +14,49 @@ This document lists the weekly meal plan, which will serve as a guide to purchas
 - [x] Cinnamon
 
 ### POST-WORKOUT
-- [ ] Banana
-- [ ] Eggs
-- [ ] Turkey Ham
-- [ ] Ezekiel Bread
+- [x] Banana
+- [x] Eggs
+- [x] Turkey Ham
+- [x] Ezekiel Bread
 
 ### SNACK
-- [ ] Apple
-- [ ] Almonds
-- [ ] Cashews
+- [x] Apple
+- [x] Almonds
+- [x] Cashews
 
 ### LUNCH
-- [ ] Grilled Salmon
-- [ ] Quinoa
-- [ ] Broccoli
-- [ ] Spinach
-- [ ] Blueberries
-- [ ] Almond Oil
-- [ ] Avocado
-- [ ] Pecans
+- [x] Grilled Salmon
+- [x] Quinoa
+- [x] Broccoli
+- [x] Spinach
+- [x] Blueberries
+- [x] Almond Oil
+- [x] Avocado
+- [x] Pecans
 
 ### SNACK
-- [ ] Carrots
-- [ ] Celery
-- [ ] Hummus
+- [x] Carrots
+- [x] Celery
+- [x] Hummus
 
 ### DINNER
-- [ ] Chicken Breast
-- [ ] Broccoli
-- [ ] Cottage Cheese
+- [x] Chicken Breast
+- [x] Broccoli
+- [x] Cottage Cheese
 
 ---
 
 ### Tuesday May 23, 2017
 
 ### PRE-WORKOUT
+- [ ] Almond Milk
+- [ ] Oatmeal
 - [ ] Greek Yogurt
-- [ ] Ezekiel Bread
-- [ ] Almond Butter
+- [ ] Raspberries
+- [ ] Chia Seeds
+- [ ] Cinnamon
 
-### PRE-WORKOUT
+### POST-WORKOUT
 - [ ] Banana
 - [ ] Ezekiel Bread
 - [ ] Tuna
@@ -63,7 +66,7 @@ This document lists the weekly meal plan, which will serve as a guide to purchas
 ### SNACK
 - [ ] Apple
 - [ ] Almonds
-- [ ] Cashews
+- [ ] Pecans
 
 ### LUNCH
 - [ ] Chicken Breast
@@ -76,9 +79,13 @@ This document lists the weekly meal plan, which will serve as a guide to purchas
 - [ ] Hummus
 
 ### DINNER
-- [ ] Chicken Breast
-- [ ] Squash
+- [ ] Steak
 - [ ] Cottage Cheese
+- [ ] Avocado
+- [ ] Spinach
+- [ ] Almond Oil
+- [ ] Raspberries
+- [ ] Almonds
 
 ---
 
@@ -104,9 +111,9 @@ This document lists the weekly meal plan, which will serve as a guide to purchas
 - [ ] Almond Butter
 
 ### LUNCH
-- [ ] Tuna Steak
+- [ ] Chicken Breast
 - [ ] Squash
-- [ ] Quinoa
+- [ ] Cottage Cheese
 
 ### SNACK
 - [ ] Carrots
@@ -126,12 +133,9 @@ This document lists the weekly meal plan, which will serve as a guide to purchas
 ### Thursday May 25, 2016
 
 ### PRE-WORKOUT
-- [ ] Almond Milk
-- [ ] Oatmeal
 - [ ] Greek Yogurt
-- [ ] Raspberries
-- [ ] Chia Seeds
-- [ ] Cinnamon
+- [ ] Ezekiel Bread
+- [ ] Almond Butter
 
 ### PRE-WORKOUT
 - [ ] Banana
@@ -159,13 +163,9 @@ This document lists the weekly meal plan, which will serve as a guide to purchas
 - [ ] Pecans
 
 ### DINNER
-- [ ] Steak
-- [ ] Cottage Cheese
-- [ ] Avocado
-- [ ] Spinach
-- [ ] Almond Oil
-- [ ] Raspberries
-- [ ] Almonds
+- [ ] Tuna Steak
+- [ ] Squash
+- [ ] Quinoa
 
 ---
 
