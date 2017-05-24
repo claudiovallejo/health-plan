@@ -21,28 +21,30 @@ This document lists daily gym routines.
 **Note:**
 *I'm still in the process of adding my name to the gym's system. I did a brief Google search and found there are a variety of 'outdoor gyms' in multiple public parks throughout the city. I will be going to Columbus Park, which is approximately 1.1 miles from my place and will be doing an outdoor workout with the available equipment.*
 
+*I ended up not going to Columbus Park, as I realized right before heading for the Park that it opened at 08:00. So, instead, I went to John V. Lindsay East River Park.*
+
 ### Cardio: Wall St -> Columbus Park
 | Start Time  | End Time   | Total Time Run | Total Distance Run |
 | :---        | :---       | :---           | :---               |
-| —           | -          |                | 1.1 miles          |
+| 06:25       | 06:45      | 20min          | 2.5 miles          |
 
 ### Chest, Back and Abs Circuit
-| Exercise Name          | Circuit 1   | Circuit 2   | Circuit 3   | Circuit 4   |
-| :---                   | :---        | :---        | :---        | :---        |
-| Wide Pullups           |             |             |             |             |
-| Chest Dips             |             |             |             |             |
-| Hanging Leg Raises     |             |             |             |             |
-| Reverse Grip Pullups   |             |             |             |             |
-| Pushups                |             |             |             |             |
-| Flutter Kicks          |             |             |             |             |
-| Chin ups               |             |             |             |             |
-| Decline Pushups        |             |             |             |             |
-| Planks                 |             |             |             |             |
+| Exercise Name          | Circuit 1   | Circuit 2   |
+| :---                   | :---        | :---        |
+| Wide Pullups           | 10reps      | 5reps       |
+| Chest Dips             | 10reps      | 10reps      |
+| Hanging Leg Raises     | 10reps      | 10reps      |
+| Reverse Grip Pullups   | 10reps      | 5reps       |
+| Pushups                | 10reps      | 10reps      |
+| Flutter Kicks          | 10reps      | 10reps      |
+| Chin ups               | 10reps      | 5reps       |
+| Decline Pushups        | 10reps      | 10reps      |
+| Planks                 | 10reps      | 10reps      |
 
 ### Cardio: Columbus Park -> Wall St
 | Start Time  | End Time   | Total Time Run | Total Distance Run |
 | :---        | :---       | :---           | :---               |
-| —           | -          |                | 1.1 miles          |
+| 07:05       | 07:30      | 25mins         | 2.5 miles          |
 
 ---
 

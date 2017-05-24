@@ -49,44 +49,45 @@ This document lists the weekly meal plan, which will serve as a guide to purchas
 ### Tuesday May 23, 2017
 
 ### PRE-WORKOUT
-- [ ] Almond Milk
-- [ ] Oatmeal
-- [ ] Greek Yogurt
-- [ ] Raspberries
-- [ ] Chia Seeds
-- [ ] Cinnamon
+- [x] Almond Milk
+- [x] Oatmeal
+- [x] Greek Yogurt
+- [x] Raspberries
+- [x] Chia Seeds
+- [x] Cinnamon
 
 ### POST-WORKOUT
-- [ ] Banana
-- [ ] Ezekiel Bread
-- [ ] Tuna
-- [ ] Avocado
-- [ ] Chia Seeds
+- [x] Banana
+- [x] Ezekiel Bread
+- [x] Tuna
+- [x] Avocado
+- [x] Chia Seeds
 
 ### SNACK
-- [ ] Apple
-- [ ] Almonds
-- [ ] Pecans
+- [x] Apple
+- [x] Almonds
+- [x] Pecans
 
 ### LUNCH
-- [ ] Chicken Breast
-- [ ] Broccoli
-- [ ] Brown Rice
+- [ ] ~~Chicken Breast~~
+- [ ] ~~Broccoli~~
+- [ ] ~~Brown Rice~~
+*Had lunch at Mew Men with the Design Team. It was one of the most delicious meals I've had in a while. I had a salad and a bowl of ramen (and tried a small piece of fried chicken).*
 
 ### SNACK
-- [ ] Carrots
-- [ ] Celery
-- [ ] Hummus
+- [ ] ~~Carrots~~
+- [ ] ~~Celery~~
+- [ ] ~~Hummus~~
 
 ### DINNER
-- [ ] Steak
-- [ ] Cottage Cheese
-- [ ] Avocado
-- [ ] Spinach
-- [ ] Almond Oil
-- [ ] Raspberries
-- [ ] Almonds
-
+- [ ] ~~Steak~~
+- [ ] ~~Cottage Cheese~~
+- [ ] ~~Avocado~~
+- [ ] ~~Spinach~~
+- [ ] ~~Almond Oil~~
+- [ ] ~~Raspberries~~
+- [ ] ~~Almonds~~
+*Had dinner with the 5/7 Development Team at Ear Inn. I had a Turkey Pita Burger which had some fried potatoes and a small salad.*
 ---
 
 ## Wednesday May 24, 2017
@@ -113,7 +114,7 @@ This document lists the weekly meal plan, which will serve as a guide to purchas
 ### LUNCH
 - [ ] Chicken Breast
 - [ ] Squash
-- [ ] Cottage Cheese
+- [ ] Brown Rice
 
 ### SNACK
 - [ ] Carrots
@@ -122,7 +123,7 @@ This document lists the weekly meal plan, which will serve as a guide to purchas
 
 ### DINNER
 - [ ] Steak
-- [ ] Broccoli
+- [ ] Cottage Cheese
 - [ ] Spinach
 - [ ] Almond Oil
 - [ ] Raspberries
